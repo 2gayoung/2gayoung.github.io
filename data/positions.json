@@ -1,88 +1,74 @@
 [
   {
-    "index": 0,
-    "message": {
-      "role": "assistant",
-      "content": {
-        "positions": [
-          {
-            "company": "㈜비에이템",
-            "position": "RPA 개발자",
-            "tech_stack": [
-              "Python",
-              "JavaScript",
-              "Selenium"
-            ],
-            "job_type": "정규직",
-            "experience": "무관",
-            "summary": "㈜비에이템은 RPA 프로젝트를 위한 개발자를 모집하며, Python, JavaScript, Selenium을 사용한 업무 자동화 개발 업무를 담당합니다. 경력과 학력에 무관하게 지원 가능하며, 협업 능력과 문서작성 능력 우대입니다."
-          },
-          {
-            "company": "네이버파이낸셜(주)",
-            "position": "RPA 엔지니어 (AI/금융 업무 자동화)",
-            "tech_stack": [
-              "Python",
-              "FastAPI",
-              "Docker",
-              "Kubernetes",
-              "MLflow",
-              "Streamlit",
-              "vLLM",
-              "MySQL",
-              "UiPath"
-            ],
-            "job_type": "정규직",
-            "experience": "경력 (2년 이상)",
-            "summary": "네이버파이낸셜은 금융 규제 대응과 업무 자동화를 위한 RPA 엔지니어를 채용하며, FastAPI 및 Docker 기반의 서비스 운영 경험이 있는 경력자를 우대합니다. 금융/AI 자동화 경험자 및 .NET 또는 UiPath 경험자 환영합니다."
-          },
-          {
-            "company": "㈜디바인테크",
-            "position": "RPA 컨설팅/개발자",
-            "tech_stack": [],
-            "job_type": "정규직",
-            "experience": "무관 (신입 가능)",
-            "summary": "㈜디바인테크는 RPA 시나리오 설계 및 Gen AI 연계를 포함한 자동화 업무를 수행할 인재를 모집하며, 경력 유무에 관계없이 지원 가능합니다. RPA 유경험자는 우대합니다."
-          },
-          {
-            "company": "세무법인신세계방배지점",
-            "position": "RPA 경력 개발자",
-            "tech_stack": [
-              "MS PowerAutomate"
-            ],
-            "job_type": "정규직",
-            "experience": "경력 (2년 이상)",
-            "summary": "세무법인신세계방배지점은 세무/회계 산업군의 자동화를 위한 RPA 경력자를 모집하며 MS PowerAutomate 사용 경험을 요구합니다. 관련 자격증 및 소프트웨어 개발 경험 보유자를 우대합니다."
-          },
-          {
-            "company": "부뜰정보시스템",
-            "position": "RPA 개발자 / 기술지원 / PM",
-            "tech_stack": [
-              "Brity RPA",
-              "OCR",
-              "AI"
-            ],
-            "job_type": "정규직",
-            "experience": "경력 (2~5년 이상)",
-            "summary": "부뜰정보시스템은 금융 및 공공기관 대상 RPA 관련 개발, 기술지원, PM 포지션을 모집하며 각각에 대해 2년 이상 또는 5년 이상의 경력을 요구합니다. Brity RPA 및 AI 관련 기술 경험이 있으면 우대합니다."
-          },
-          {
-            "company": "알앤비소프트",
-            "position": "R&D RPA 솔루션 C# 개발자",
-            "tech_stack": [
-              "C#",
-              "Python",
-              "WinForm"
-            ],
-            "job_type": "정규직",
-            "experience": "무관",
-            "summary": "알앤비소프트는 자회사 비에이템의 RPA솔루션 고도화를 담당할 C# 개발자를 모집하며, WinForm 기반 엔진 개발 및 Python 활용 경험이 있는 인재를 찾습니다. 개발 관련 전공 및 자격증 보유자를 우대합니다."
-          }
-        ]
-      },
-      "refusal": null,
-      "annotations": []
-    },
-    "logprobs": null,
-    "finish_reason": "stop"
+    "company": "㈜비에이템",
+    "position": "RPA 개발자",
+    "tech_stack": [
+      "Python",
+      "JavaScript",
+      "Selenium"
+    ],
+    "job_type": "정규직",
+    "experience": "무관",
+    "summary": "㈜비에이템은 RPA 프로젝트를 위한 개발자를 모집하며, Python, JavaScript, Selenium을 사용한 업무 자동화 개발 업무를 담당합니다. 경력과 학력에 무관하게 지원 가능하며, 협업 능력과 문서작성 능력 우대입니다."
+  },
+  {
+    "company": "네이버파이낸셜(주)",
+    "position": "RPA 엔지니어 (AI/금융 업무 자동화)",
+    "tech_stack": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "Streamlit",
+      "vLLM",
+      "MySQL",
+      "UiPath"
+    ],
+    "job_type": "정규직",
+    "experience": "경력 (2년 이상)",
+    "summary": "네이버파이낸셜은 금융 규제 대응과 업무 자동화를 위한 RPA 엔지니어를 채용하며, FastAPI 및 Docker 기반의 서비스 운영 경험이 있는 경력자를 우대합니다. 금융/AI 자동화 경험자 및 .NET 또는 UiPath 경험자 환영합니다."
+  },
+  {
+    "company": "㈜디바인테크",
+    "position": "RPA 컨설팅/개발자",
+    "tech_stack": [],
+    "job_type": "정규직",
+    "experience": "무관 (신입 가능)",
+    "summary": "㈜디바인테크는 RPA 시나리오 설계 및 Gen AI 연계를 포함한 자동화 업무를 수행할 인재를 모집하며, 경력 유무에 관계없이 지원 가능합니다. RPA 유경험자는 우대합니다."
+  },
+  {
+    "company": "세무법인신세계방배지점",
+    "position": "RPA 경력 개발자",
+    "tech_stack": [
+      "MS PowerAutomate"
+    ],
+    "job_type": "정규직",
+    "experience": "경력 (2년 이상)",
+    "summary": "세무법인신세계방배지점은 세무/회계 산업군의 자동화를 위한 RPA 경력자를 모집하며 MS PowerAutomate 사용 경험을 요구합니다. 관련 자격증 및 소프트웨어 개발 경험 보유자를 우대합니다."
+  },
+  {
+    "company": "부뜰정보시스템",
+    "position": "RPA 개발자 / 기술지원 / PM",
+    "tech_stack": [
+      "Brity RPA",
+      "OCR",
+      "AI"
+    ],
+    "job_type": "정규직",
+    "experience": "경력 (2~5년 이상)",
+    "summary": "부뜰정보시스템은 금융 및 공공기관 대상 RPA 관련 개발, 기술지원, PM 포지션을 모집하며 각각에 대해 2년 이상 또는 5년 이상의 경력을 요구합니다. Brity RPA 및 AI 관련 기술 경험이 있으면 우대합니다."
+  },
+  {
+    "company": "알앤비소프트",
+    "position": "R&D RPA 솔루션 C# 개발자",
+    "tech_stack": [
+      "C#",
+      "Python",
+      "WinForm"
+    ],
+    "job_type": "정규직",
+    "experience": "무관",
+    "summary": "알앤비소프트는 자회사 비에이템의 RPA솔루션 고도화를 담당할 C# 개발자를 모집하며, WinForm 기반 엔진 개발 및 Python 활용 경험이 있는 인재를 찾습니다. 개발 관련 전공 및 자격증 보유자를 우대합니다."
   }
 ]
